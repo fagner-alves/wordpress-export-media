@@ -1,4 +1,4 @@
-# wordpress-export-media
+# Wordpress Export Media
 Script para exportar arquivos (imagens, pdf, words, ect) hospedado na plataforma wordpress.com ou qualquer outra plataforma que exporteo o xml das url dos arquivos no padrão do wordpress.
 
 # Como utilizar?

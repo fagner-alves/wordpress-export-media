@@ -3,7 +3,7 @@ Script para exportar arquivos (imagens, pdf, words, ect) hospedado na plataforma
 
 # Como utilizar?
 
-Basta seguir os passos abaixo :).
+Basta seguir os passos abaixo:
 
 
 > **Passo 1:** 
@@ -26,7 +26,7 @@ $replace: Informe o novo caminho que deseja salvar os arquivos.
 
 > **Passo 4:** 
 
-Acesse a aplicação e seja feliz :)
+Acesse a aplicação e seja feliz :heart_eyes:
 
 # Duvidas, sugestões e criticas.
 
